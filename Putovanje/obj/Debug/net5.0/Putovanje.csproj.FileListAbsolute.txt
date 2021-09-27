@@ -1,0 +1,15 @@
+C:\Users\Nikola\source\repos\Putovanje\Putovanje\bin\Debug\net5.0\Putovanje.exe
+C:\Users\Nikola\source\repos\Putovanje\Putovanje\bin\Debug\net5.0\Putovanje.deps.json
+C:\Users\Nikola\source\repos\Putovanje\Putovanje\bin\Debug\net5.0\Putovanje.runtimeconfig.json
+C:\Users\Nikola\source\repos\Putovanje\Putovanje\bin\Debug\net5.0\Putovanje.runtimeconfig.dev.json
+C:\Users\Nikola\source\repos\Putovanje\Putovanje\bin\Debug\net5.0\Putovanje.dll
+C:\Users\Nikola\source\repos\Putovanje\Putovanje\bin\Debug\net5.0\ref\Putovanje.dll
+C:\Users\Nikola\source\repos\Putovanje\Putovanje\bin\Debug\net5.0\Putovanje.pdb
+C:\Users\Nikola\source\repos\Putovanje\Putovanje\obj\Debug\net5.0\Putovanje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\Putovanje\Putovanje\obj\Debug\net5.0\Putovanje.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\Putovanje\Putovanje\obj\Debug\net5.0\Putovanje.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\Putovanje\Putovanje\obj\Debug\net5.0\Putovanje.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\Putovanje\Putovanje\obj\Debug\net5.0\Putovanje.dll
+C:\Users\Nikola\source\repos\Putovanje\Putovanje\obj\Debug\net5.0\ref\Putovanje.dll
+C:\Users\Nikola\source\repos\Putovanje\Putovanje\obj\Debug\net5.0\Putovanje.pdb
+C:\Users\Nikola\source\repos\Putovanje\Putovanje\obj\Debug\net5.0\Putovanje.genruntimeconfig.cache
